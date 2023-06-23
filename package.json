@@ -2,7 +2,7 @@
   "name": "box-office-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://apurvanand-2002.github.io/BoxOfficeApp",
+  "homepage": "https://apurvanand-2002.github.io/BOX_OFFICE_APP_FINAL_DEPLOYMENT",
   "dependencies": {
     "@tanstack/react-query": "^4.29.7",
     "react": "^18.2.0",
@@ -26,8 +26,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
